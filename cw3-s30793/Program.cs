@@ -6,7 +6,6 @@ class Program
     {
         Ship ship1 = new Ship("CargoShip1", 20,3, 600);
         Ship ship2 = new Ship("CargoShip2", 10, 5,400);
-        Ship ship3 = new Ship("CargoShip3", 10, 5,400);
 
         LiquidContainer liquid = new LiquidContainer(true) { maxLoad = 1000 };
         GasContainer gas = new GasContainer(10) { maxLoad = 800 };
