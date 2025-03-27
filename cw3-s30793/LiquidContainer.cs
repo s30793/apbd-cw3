@@ -1,6 +1,6 @@
 ﻿namespace cw3_s30793;
 
-class LiquidContainer : Container {//
+class LiquidContainer : Container {
     public bool IsDangerous { get;  set; }
     
     public LiquidContainer(bool isDangerous) : base("L")

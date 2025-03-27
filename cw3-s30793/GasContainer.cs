@@ -7,7 +7,7 @@ class GasContainer : Container
          { AirPressure = airPressure; }
          
     public override void Load(double weight)
-    {//
+    {
         if (loadWeight + weight > maxLoad)
         {
             HazardNotifier($"DANGEROUS OPERATION: Attempting to transfer container {serialNumber}");

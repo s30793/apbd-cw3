@@ -9,7 +9,7 @@ abstract class Container
     public double ownWeight { get; set; }
     public double depth { get; set; }
     public double maxLoad { get; set; }
-   // 
+    
     public Container(string type)
     {
         serialNumber = $"KON-{type}-{_nextSerialNumber++}";

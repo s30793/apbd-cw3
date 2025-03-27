@@ -45,7 +45,7 @@ class RefrigeratedContainer : Container
         public UnknownProductException(string message) : base(message)
         {
         }
-    }//
+    }
 
     public class WrongTemperatureException : Exception
     {
