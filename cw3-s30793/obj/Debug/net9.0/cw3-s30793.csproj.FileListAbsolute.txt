@@ -1,0 +1,14 @@
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\bin\Debug\net9.0\cw3-s30793.exe
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\bin\Debug\net9.0\cw3-s30793.deps.json
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\bin\Debug\net9.0\cw3-s30793.runtimeconfig.json
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\bin\Debug\net9.0\cw3-s30793.dll
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\bin\Debug\net9.0\cw3-s30793.pdb
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\obj\Debug\net9.0\cw3-s30793.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\obj\Debug\net9.0\cw3-s30793.AssemblyInfoInputs.cache
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\obj\Debug\net9.0\cw3-s30793.AssemblyInfo.cs
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\obj\Debug\net9.0\cw3-s30793.csproj.CoreCompileInputs.cache
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\obj\Debug\net9.0\cw3-s30793.dll
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\obj\Debug\net9.0\refint\cw3-s30793.dll
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\obj\Debug\net9.0\cw3-s30793.pdb
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\obj\Debug\net9.0\cw3-s30793.genruntimeconfig.cache
+C:\Users\palka\RiderProjects\cw3-s30793\cw3-s30793\obj\Debug\net9.0\ref\cw3-s30793.dll

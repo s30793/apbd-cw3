@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "cw3-s30793/1.0.0": {
+        "runtime": {
+          "cw3-s30793.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cw3-s30793/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
